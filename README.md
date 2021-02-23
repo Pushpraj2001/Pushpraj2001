@@ -1,14 +1,14 @@
-# Hey! <img height="50px" src="https://github.com/ir2010/ir2010/blob/main/assets/waving_hand_sign_1024.gif">
+# Hey! <img height="50px" src="https://github.com/Pushpraj2001/Pushpraj2001/blob/main/waving_hand_sign_1024.gif?raw=true">
 
 <br>
 
 - I am an undergraduate learning **Bachlore Of Computer Application** at **Chandigarh University** :computer:
 <br>
 
-- I am currently working on **Web Application**  :iphone:
-<br>
+- I am currently working on **Web Application**  :computer: 
+ <br>
 
-- I am looking forward to learn **ML/AI**       :innocent:
+- I am looking forward to learn **Software/Mobile App Development**    
 <br>
 
 <a href="https://github-readme-stats.vercel.app/api?username=pushpraj2001&show_icons=true&theme=cobalt">
