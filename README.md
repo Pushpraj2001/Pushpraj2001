@@ -5,7 +5,7 @@
 - I am an undergraduate learning **Bachlore Of Computer Application** at **Chandigarh University** :computer:
 <br>
 
-- I am currently working on **Web Application**  :computer: 
+- I am currently working on **Web Application** **Software Development** :computer: :Mobile: 
  <br>
 
 - I am looking forward to learn **Software/Mobile App Development**    
